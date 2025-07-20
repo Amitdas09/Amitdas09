@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Amit Ranjan Das
 
-<!--
-**Amitdas09/Amitdas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *AI & Machine Learning Engineer | Data Scientist | Python Enthusiast*  
+📍 Bangalore, India | 💻 Open to Internships & Freelance Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a final-year undergraduate in **Artificial Intelligence & Machine Learning** at HKBK College of Engineering, with a strong passion for building data-driven solutions using AI, Machine Learning, and Computer Vision.
+
+I specialize in transforming complex datasets into actionable insights, developing intelligent models, and deploying them using modern tools. With a solid foundation in programming and data science, I strive to bridge the gap between theory and impactful real-world applications.
+
+> 🧠 “AI is not just the future — it's what I build today.”
+
+---
+
+## 🧠 Skills Snapshot
+
+- **Languages:** Python, SQL, C, Java (Basic)  
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, OpenCV, Matplotlib, Seaborn  
+- **Machine Learning:** Regression, Classification, Clustering, Model Tuning  
+- **Visualization:** Power BI, Tableau, Excel  
+- **Tools & Platforms:** Jupyter, Google Colab, Git, MySQL, Streamlit  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Artificial Intelligence & Machine Learning**  
+*HKBK College of Engineering, Bangalore*  
+📅 *Expected Graduation: May 2026* | CGPA: **9.25/10** *(Till 5th Semester)*
+
+---
+
+## 🏅 Certifications & Achievements
+
+- **AI with Jetson Nano** – NVIDIA (2025)  
+- **Data Analytics Job Simulation** – Deloitte (2025)  
+- **Introduction to Machine Learning** – NPTEL, AICTE (2024)  
+- **Certificate of Excellence in OpenCV** – OpenCV University (2023)  
+- 🥇 1st Place – Poster Presentation on *Quantum Computing*, HKBK  
+- 🥈 2nd Place – *Escape Room Coding Challenge* (DSA-based), ISTE  
+- 📰 Department Newsletter Designer – Twice selected for official publications  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [das285amit@gmail.com](mailto:das285amit@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/amit-das](https://linkedin.com/in/amit-das)  
+- 🧑‍💻 GitHub: [github.com/Amitdas09](https://github.com/Amitdas09)
+
+---
+
+🌟 *Let’s collaborate to build smart, scalable AI solutions!*  
