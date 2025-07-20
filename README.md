@@ -28,7 +28,6 @@ I specialize in transforming complex datasets into actionable insights, developi
 ## 🎓 Education
 
 **Bachelor of Engineering in Artificial Intelligence & Machine Learning**  
-*HKBK College of Engineering, Bangalore*  
 📅 *Expected Graduation: May 2026* | CGPA: **9.25/10** *(Till 5th Semester)*
 
 ---
@@ -37,8 +36,9 @@ I specialize in transforming complex datasets into actionable insights, developi
 
 - **AI with Jetson Nano** – NVIDIA (2025)  
 - **Data Analytics Job Simulation** – Deloitte (2025)  
-- **Introduction to Machine Learning** – NPTEL, AICTE (2024)  
-- **Certificate of Excellence in OpenCV** – OpenCV University (2023)  
+- **Introduction to Machine Learning** – NPTEL, AICTE (2024)
+- **Certificate of Excellence in OpenCV** – OpenCV University (2023)
+
 - 🥇 1st Place – Poster Presentation on *Quantum Computing*, HKBK  
 - 🥈 2nd Place – *Escape Room Coding Challenge* (DSA-based), ISTE  
 - 📰 Department Newsletter Designer – Twice selected for official publications  
