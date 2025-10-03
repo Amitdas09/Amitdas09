@@ -39,7 +39,7 @@ I specialize in transforming complex datasets into actionable insights, developi
 - **Introduction to Machine Learning** – NPTEL, AICTE (2024)
 - **Certificate of Excellence in OpenCV** – OpenCV University (2023)
 
-- 🥇 1st Place – Poster Presentation on *Quantum Computing*, HKBK  
+- 🥇 1st Place – Poster Presentation on *Quantum Computing*, HKBK COLLEGE OF ENGINNERING 
 - 🥈 2nd Place – *Escape Room Coding Challenge* (DSA-based), ISTE  
 - 📰 Department Newsletter Designer – Twice selected for official publications  
 
@@ -50,6 +50,7 @@ I specialize in transforming complex datasets into actionable insights, developi
 - 📧 Email: [das285amit@gmail.com](mailto:das285amit@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/amit-das](https://linkedin.com/in/amit-das)  
 - 🧑‍💻 GitHub: [github.com/Amitdas09](https://github.com/Amitdas09)
+- 🌎 Portfolio:[github.com/Amitdas09](https://amitdas09.github.io/Portfolio-Website/)
 
 ---
 
