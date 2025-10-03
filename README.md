@@ -50,7 +50,7 @@ I specialize in transforming complex datasets into actionable insights, developi
 - 📧 Email: [das285amit@gmail.com](mailto:das285amit@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/amit-das](https://linkedin.com/in/amit-das)  
 - 🧑‍💻 GitHub: [github.com/Amitdas09](https://github.com/Amitdas09)
-- 🌎 Portfolio:[github.com/Amitdas09](https://amitdas09.github.io/Portfolio-Website/)
+- 🌎 Portfolio:[Portfolio/amit](https://amitdas09.github.io/Portfolio-Website/)
 
 ---
 
