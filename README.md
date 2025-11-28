@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Ranjan Das
 
-🎓 *AI & Machine Learning Engineer | Data Scientist | Python Enthusiast*  
+🎓 *AI & Machine Learning Engineer | Data Scientist | Python Enthusiast*   
 📍 Bangalore, India | 💻 Open to Internships & Freelance Opportunities
 
 ---
