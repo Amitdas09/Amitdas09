@@ -20,54 +20,90 @@
 
 👨‍💻 About Me
 
+💡 I build intelligent systems that turn complex data into measurable impact.
+
 I’m an AI Engineer × Data Scientist with 1+ year of experience building AI systems, machine learning solutions, and data-driven applications.
 
-My focus is on combining AI engineering and data science to build practical solutions that automate workflows, process complex data, and generate actionable insights.
-
-📍 Bangalore, India
-🎓 B.E. Artificial Intelligence & Machine Learning — HKBK College of Engineering
-⭐ CGPA: 9.3 / 10
-
-🎯 What I Do
+I combine AI engineering + data science to automate workflows, understand complex data, and build practical solutions for real-world problems.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🤖 AI Engineering
+📍 Location
 
-Generative AI & LLM Applications
+Bangalore, India
 
-Agentic AI & Multi-Agent Systems
+🎓 Education
 
-RAG & Knowledge Retrieval
+B.E. Artificial Intelligence & Machine Learning
 
-Computer Vision & OCR
-
-Document Intelligence
-
-AI Automation & Workflows
-
-REST API & AI Integrations
+HKBK College of Engineering
 
 </td>
 <td width="50%" valign="top">
 
-📊 Data Science
+⭐ Academic Performance
 
-Exploratory Data Analysis
+CGPA: 9.3 / 10
 
-Data Cleaning & Preprocessing
+🎯 Focus
 
-Statistical Analysis
+AI Engineering × Data Science
 
-Machine Learning
+Generative AI · RAG · Computer Vision · Data Analytics
 
-Predictive Modeling
+</td>
+</tr>
+</table>
 
-Data Visualization
+🎯 What I Do
 
-Power BI & Tableau
+<table>
+<tr>
+<td width="33%" align="center">
+
+📊 Exploratory Data Analysis
+
+Discover patterns, trends and insights from data.
+
+</td>
+<td width="33%" align="center">
+
+🧹 Data Cleaning
+
+Transform raw data into reliable, analysis-ready datasets.
+
+</td>
+<td width="33%" align="center">
+
+📈 Data Visualization
+
+Build clear dashboards and visual insights with Power BI.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+🔎 RAG Systems
+
+Build retrieval-augmented AI systems using LLMs and knowledge sources.
+
+</td>
+<td width="33%" align="center">
+
+👁️ Computer Vision
+
+Develop AI solutions for image understanding, detection and OCR.
+
+</td>
+<td width="33%" align="center">
+
+🤖 AI Automation
+
+Automate workflows using AI models, agents and intelligent pipelines.
 
 </td>
 </tr>
