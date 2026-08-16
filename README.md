@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Amit Ranjan Das
 
-<h2 align="center">🤖 AI Engineer × 📊 Data Scientist</h2>
+<h2 align="center"><span style="color:#8B5CF6;">🤖 AI Engineer × 📊 Data Scientist</span></h2>
 
 <p align="center"><strong>Building intelligent systems, AI-powered applications & data-driven solutions.</strong></p>
 
