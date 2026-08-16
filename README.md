@@ -1,10 +1,14 @@
 <div align="center">
 
-👋 Hi, I'm Amit Ranjan Das
+<h1>
+<span style="font-family:'Fira Code',monospace;color:#8B5CF6;">👋 Hi, I'm Amit Ranjan Das</span>
+</h1>
 
-<h2 align="center"><span style="color:#8B5CF6;">🤖 AI Engineer × 📊 Data Scientist</span></h2>
+<h2>
+<span style="font-family:'Fira Code',monospace;color:#8B5CF6;">🤖 AI Engineer × 📊 Data Scientist</span>
+</h2>
 
-<p align="center"><strong>Building intelligent systems, AI-powered applications & data-driven solutions.</strong></p>
+<p><strong>Building intelligent systems, AI-powered applications & data-driven solutions.</strong></p>
 
 <p>
 <a href="mailto:das285amit@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-das285amit%40gmail.com-EA4335?style=for-the-badge&labelColor=18181B"/></a>
