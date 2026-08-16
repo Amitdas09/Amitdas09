@@ -18,7 +18,7 @@
 
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 💡 I build intelligent systems that turn complex data into measurable impact.
 
