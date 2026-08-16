@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+AI+Engineer+%C3%97+%F0%9F%93%8A+Data+Scientist&repeat=false" alt="AI Engineer × Data Scientist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+Engineer+%C3%97+Data+Scientist&repeat=false" alt="AI Engineer × Data Scientist" />
 
 <p><strong>Building intelligent systems, AI-powered applications & data-driven solutions.</strong></p>
 
@@ -14,13 +14,13 @@
 <a href="https://github.com/Amitdas09"><img src="https://img.shields.io/badge/💻%20GitHub-Amitdas09-18181B?style=for-the-badge&labelColor=18181B"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;RAG+%7C+Machine+Learning+%7C+Data+Science;Turning+complex+data+into+intelligent+solutions" alt="AI capabilities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FFD166&center=true&vCenter=true&width=850&lines=Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;RAG+%7C+Machine+Learning+%7C+Data+Science;Turning+complex+data+into+intelligent+solutions" alt="AI capabilities" />
 
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-🤖 I build intelligent systems that turn complex data into measurable impact.
+I build intelligent systems that turn complex data into measurable impact.
 
 I’m an AI Engineer × Data Scientist with 1+ year of experience building AI systems, machine learning solutions, and data-driven applications.
 
@@ -36,8 +36,7 @@ HKBK College of Engineering, Bangalore
 
 🎓 Graduated: May 2026    |    ⭐ CGPA: 9.3 / 10
 
-
-🎯 What I Do
+## 🎯 What I Do
 
 <div align="center">
 
@@ -93,9 +92,9 @@ AI-Powered Workflows
 
 </div>
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-💻 Programming Languages
+#### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -104,7 +103,7 @@ AI-Powered Workflows
 <img src="https://img.shields.io/badge/C-Basic-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
-🤖 AI / Machine Learning
+#### 🤖 AI / Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
@@ -124,7 +123,7 @@ AI-Powered Workflows
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-📊 Data Science & Analytics
+#### 📊 Data Science & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -136,7 +135,7 @@ AI-Powered Workflows
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-⚙️ Backend, Database & DevOps
+#### ⚙️ Backend, Database & DevOps
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -148,7 +147,7 @@ AI-Powered Workflows
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-🧠 Areas of Expertise
+## 🧠 Areas of Expertise
 
 <table>
 <tr>
@@ -201,6 +200,8 @@ Power BI · Tableau · Data Visualization
 </table>
 
 
+### 🏆 Certifications & Achievements
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -232,7 +233,7 @@ Power BI · Tableau · Data Visualization
 </tr>
 </table>
 
-📊 GitHub Activity
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -246,7 +247,7 @@ Power BI · Tableau · Data Visualization
 
 </div>
 
-🌐 Connect With Me
+### 🌐 Connect With Me
 
 <div align="center">
 
