@@ -28,7 +28,7 @@ I specialize in transforming complex datasets into actionable insights, developi
 ## 🎓 Education
 
 **Bachelor of Engineering in Artificial Intelligence & Machine Learning**  
-📅 *Expected Graduation: May 2026* | CGPA: **9.1/10** 
+📅 *Graduated: May 2026* | CGPA: **9.1/10** 
 
 ---
 
