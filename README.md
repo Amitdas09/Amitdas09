@@ -28,10 +28,14 @@ I combine AI engineering and data science to automate workflows, solve complex p
 
 📍 Currently based in Bangalore, India.
 
-🎓 Education: B.E. in Artificial Intelligence & Machine Learning
-HKBK College of Engineering
+🎓 Education
 
-⭐ CGPA: 9.3 / 10
+Bachelor of Engineering — Artificial Intelligence & Machine Learning
+
+HKBK College of Engineering, Bangalore
+
+🎓 Graduated: May 2026    |    ⭐ CGPA: 9.3 / 10
+
 
 🎯 What I Do
 
@@ -196,15 +200,6 @@ Power BI · Tableau · Data Visualization
 </tr>
 </table>
 
-🎓 Education
-
-Bachelor of Engineering — Artificial Intelligence & Machine Learning
-
-HKBK College of Engineering, Bangalore
-
-🎓 Graduated: May 2026    |    ⭐ CGPA: 9.3 / 10
-
-🏆 Certifications & Achievements
 
 <table>
 <tr>
