@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1>
-<span style="font-family:'Fira Code',monospace;color:#8B5CF6;">👋 Hi, I'm Amit Ranjan Das</span>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi%2C+I'm+Amit+Ranjan+Das&repeat=false" alt="Hi, I'm Amit Ranjan Das" />
 
-<h2>
-<span style="font-family:'Fira Code',monospace;color:#8B5CF6;">🤖 AI Engineer × 📊 Data Scientist</span>
-</h2>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+AI+Engineer+%C3%97+%F0%9F%93%8A+Data+Scientist&repeat=false" alt="AI Engineer × Data Scientist" />
 
 <p><strong>Building intelligent systems, AI-powered applications & data-driven solutions.</strong></p>
 
@@ -16,7 +14,7 @@
 <a href="https://github.com/Amitdas09"><img src="https://img.shields.io/badge/💻%20GitHub-Amitdas09-18181B?style=for-the-badge&labelColor=18181B"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;RAG+%7C+Machine+Learning+%7C+Data+Science;Turning+complex+data+into+intelligent+solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;RAG+%7C+Machine+Learning+%7C+Data+Science;Turning+complex+data+into+intelligent+solutions" alt="AI capabilities" />
 
 </div>
 
